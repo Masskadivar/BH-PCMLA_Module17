@@ -1,7 +1,7 @@
 # BH-PCMLA_Module17
 This repo contains the practical application assignment for Mod17
 
-# Data Set Information:
+# Dataset Information:
 
 The dataset is coming from the direct marketing campaigns carried out by a Portuguese banking institution, which relied on phone calls to promote their product - a bank term deposit. It was often necessary to make multiple attempts to contact the same client to determine whether or not they would subscribe to the product, with the possible responses being either 'yes' or 'no'.
 
